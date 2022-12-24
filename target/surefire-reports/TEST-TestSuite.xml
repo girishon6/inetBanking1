@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.688" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="JOB_NAME" value="inetBanking_V1_Maven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/11/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\ProgramData\Jenkins\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="a8833ff49810d3e9"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Windows\TEMP"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="11.0.16+11-LTS-199"/>
+    <property name="WINSW_SERVICE_ID" value="jenkins"/>
+    <property name="user.name" value="GIRISH$"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="inetBanking_V1_Maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/11/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#11"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.16\bin"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="LOCALAPPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Local"/>
+    <property name="java.version" value="11.0.16"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="GIRISH$"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="BUILD_ID" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME\conf"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.16"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/11/display/redirect"/>
+    <property name="TMP" value="C:\Windows\TEMP"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/11/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="11.0.16+11-LTS-199"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/display/redirect"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-11.0.16\"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="SERVICE_ID" value="jenkins"/>
+    <property name="COMPUTERNAME" value="GIRISH"/>
+    <property name="user.script" value=""/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-inetBanking_V1_Maven-11"/>
+    <property name="JENKINS_SERVER_COOKIE" value="a8833ff49810d3e9"/>
+    <property name="HUDSON_URL" value="http://localhost:8081/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.16\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME/bin;C:\Program Files\Java\jdk-11.0.16\/bin;C:\Program Files\Java\jdk-11.0.16\/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\apache-maven-3.8.6\bin\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Roaming"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME"/>
+    <property name="java.class.path" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME\boot\plexus-classworlds-2.6.0.jar;C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME C:\ProgramData\Jenkins\war\WEB-INF\lib\remoting-3071.v7e9b_0dc08466.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 59205"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-11.0.16\/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\apache-maven-3.8.6\bin\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-11.0.16\/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 140 Stepping 2, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="M2_HOME" value="C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="HUDSON_HOME" value="C:\ProgramData\Jenkins\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/11/"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.dir" value="C:\Users\giris\eclipse-workspace\inetBanking1"/>
+    <property name="JOB_URL" value="http://localhost:8081/job/inetBanking_V1_Maven/"/>
+    <property name="USERDOMAIN" value="WORKGROUP"/>
+    <property name="MAVEN_HOME" value="C:\ProgramData\Jenkins\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\M2_HOME"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BASE" value="C:\Program Files\Jenkins"/>
+    <property name="BUILD_NUMBER" value="11"/>
+    <property name="PROCESSOR_REVISION" value="8c02"/>
+    <property name="JENKINS_URL" value="http://localhost:8081/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\ProgramData\Jenkins\.jenkins\workspace\inetBanking_V1_Maven@tmp"/>
+    <property name="WORKSPACE" value="C:\ProgramData\Jenkins\.jenkins\workspace\inetBanking_V1_Maven"/>
+    <property name="maven3.interceptor.common" value="C:\ProgramData\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="java.vendor.version" value="18.9"/>
+  </properties>
+  <testcase name="testLogin" classname="com.inetBanking.testCases.TC_Login_Test_001" time="0.688">
+    <failure message="unexpected alert open: {Alert text : User is not valid}&#10;  (Session info: chrome=108.0.5359.125): User is not valid&#10;Build info: version: &apos;4.5.0&apos;, revision: &apos;fe167b119a&apos;&#10;System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.16&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [bd54b7cdce8b906658157a35421b0b9a, getTitle {}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Windows\TEMP\scoped_dir8...}, goog:chromeOptions: {debuggerAddress: localhost:59261}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59261/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: bd54b7cdce8b906658157a35421b0b9a" type="org.openqa.selenium.UnhandledAlertException">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User is not valid}
+  (Session info: chrome=108.0.5359.125): User is not valid
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bd54b7cdce8b906658157a35421b0b9a, getTitle {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Windows\TEMP\scoped_dir8...}, goog:chromeOptions: {debuggerAddress: localhost:59261}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59261/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bd54b7cdce8b906658157a35421b0b9a
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:315)
+	at com.inetBanking.testCases.TC_Login_Test_001.testLogin(TC_Login_Test_001.java:31)
+</failure>
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+ INFO [main] (TC_Login_Test_001.java:17)- opened baseURL
+ INFO [main] (TC_Login_Test_001.java:20)- Object created for loginpage
+ INFO [main] (TC_Login_Test_001.java:23)- Enter username
+ INFO [main] (TC_Login_Test_001.java:26)- Enter password
+ INFO [main] (TC_Login_Test_001.java:29)- Clicked on submit
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 49224
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 22, 2022 9:38:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Dec 22, 2022 9:38:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 106
+Dec 22, 2022 9:38:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 108 of 106
+]]></system-err>
+  </testcase>
+</testsuite>

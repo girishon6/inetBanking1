@@ -1,0 +1,172 @@
+2022-12-04 13:52:05,106 [main] INFO ebanking - opened baseURL
+2022-12-04 13:52:05,122 [main] INFO ebanking - Object created for loginpage
+2022-12-04 13:52:05,208 [main] INFO ebanking - Enter username
+2022-12-04 13:52:05,260 [main] INFO ebanking - Enter password
+2022-12-04 13:52:07,663 [main] INFO ebanking - Clicked on submit
+2022-12-04 13:52:07,681 [main] INFO ebanking - Title matched as expected
+2022-12-05 13:56:53,801 [main] INFO ebanking - opened baseURL
+2022-12-05 13:56:53,818 [main] INFO ebanking - Object created for loginpage
+2022-12-05 13:56:53,873 [main] INFO ebanking - Enter username
+2022-12-05 13:56:53,962 [main] INFO ebanking - Enter password
+2022-12-05 13:56:56,323 [main] INFO ebanking - Clicked on submit
+2022-12-05 13:56:56,342 [main] INFO ebanking - Title matched as expected
+2022-12-05 16:35:36,280 [main] INFO ebanking - opened baseURL
+2022-12-05 16:35:36,293 [main] INFO ebanking - Object created for loginpage
+2022-12-05 16:35:36,353 [main] INFO ebanking - Enter username
+2022-12-05 16:35:36,416 [main] INFO ebanking - Enter password
+2022-12-05 16:35:45,375 [main] INFO ebanking - Clicked on submit
+2022-12-05 16:35:45,383 [main] INFO ebanking - Title matched as expected
+2022-12-05 20:50:32,231 [main] INFO ebanking - Username given
+2022-12-05 20:50:32,291 [main] INFO ebanking - Username given
+2022-12-05 20:50:32,350 [main] INFO ebanking - Clicked on submit
+2022-12-05 20:50:39,938 [main] INFO ebanking - Login pass
+2022-12-05 20:50:46,580 [main] INFO ebanking - Username given
+2022-12-05 20:50:46,623 [main] INFO ebanking - Username given
+2022-12-05 20:50:46,659 [main] INFO ebanking - Clicked on submit
+2022-12-05 20:50:50,068 [main] WARN ebanking - Login failed
+2022-12-05 20:50:54,112 [main] INFO ebanking - Username given
+2022-12-05 20:50:54,188 [main] INFO ebanking - Username given
+2022-12-05 20:50:54,230 [main] INFO ebanking - Clicked on submit
+2022-12-05 20:51:01,393 [main] WARN ebanking - Login failed
+2022-12-05 20:51:08,712 [main] INFO ebanking - Username given
+2022-12-05 20:51:08,753 [main] INFO ebanking - Username given
+2022-12-05 20:51:08,788 [main] INFO ebanking - Clicked on submit
+2022-12-05 20:51:13,448 [main] WARN ebanking - Login failed
+2022-12-05 20:51:17,468 [main] INFO ebanking - Username given
+2022-12-05 20:51:17,518 [main] INFO ebanking - Username given
+2022-12-05 20:51:17,554 [main] INFO ebanking - Clicked on submit
+2022-12-05 20:51:21,389 [main] WARN ebanking - Login failed
+2022-12-06 16:19:56,102 [main] INFO ebanking - Entered Username
+2022-12-06 16:19:56,168 [main] INFO ebanking - Entered Password
+2022-12-06 16:19:56,222 [main] INFO ebanking - Clicked Submit
+2022-12-06 16:20:05,657 [main] INFO ebanking - Adding New Customer name
+2022-12-06 16:42:37,347 [main] INFO ebanking - Entered Username
+2022-12-06 16:42:37,406 [main] INFO ebanking - Entered Password
+2022-12-06 16:42:37,459 [main] INFO ebanking - Clicked Submit
+2022-12-06 16:42:43,214 [main] INFO ebanking - Adding New Customer name
+2022-12-06 17:01:30,981 [main] INFO ebanking - Entered Username
+2022-12-06 17:01:31,042 [main] INFO ebanking - Entered Password
+2022-12-06 17:01:31,100 [main] INFO ebanking - Clicked Submit
+2022-12-06 17:01:39,892 [main] INFO ebanking - Adding New Customer name
+2022-12-06 17:07:25,814 [main] INFO ebanking - Entered Username
+2022-12-06 17:07:25,881 [main] INFO ebanking - Entered Password
+2022-12-06 17:07:25,933 [main] INFO ebanking - Clicked Submit
+2022-12-06 17:07:31,507 [main] INFO ebanking - Adding New Customer name
+2022-12-06 17:16:23,377 [main] INFO ebanking - Entered Username
+2022-12-06 17:16:23,443 [main] INFO ebanking - Entered Password
+2022-12-06 17:16:23,501 [main] INFO ebanking - Clicked Submit
+2022-12-06 17:16:32,140 [main] INFO ebanking - Adding New Customer name
+2022-12-07 18:52:59,549 [main] INFO ebanking - opened baseURL
+2022-12-07 18:52:59,564 [main] INFO ebanking - Object created for loginpage
+2022-12-07 18:52:59,645 [main] INFO ebanking - Enter username
+2022-12-07 18:52:59,706 [main] INFO ebanking - Enter password
+2022-12-07 18:53:01,077 [main] INFO ebanking - Clicked on submit
+2022-12-07 18:53:01,106 [main] INFO ebanking - Title matched as expected
+2022-12-07 19:03:40,043 [main] INFO ebanking - opened baseURL
+2022-12-07 19:03:40,060 [main] INFO ebanking - Object created for loginpage
+2022-12-07 19:03:40,118 [main] INFO ebanking - Enter username
+2022-12-07 19:03:40,170 [main] INFO ebanking - Enter password
+2022-12-07 19:03:43,052 [main] INFO ebanking - Clicked on submit
+2022-12-07 19:03:43,057 [main] INFO ebanking - Title matched as expected
+2022-12-07 21:28:27,845 [main] INFO ebanking - opened baseURL
+2022-12-07 21:28:27,858 [main] INFO ebanking - Object created for loginpage
+2022-12-07 21:28:27,918 [main] INFO ebanking - Enter username
+2022-12-07 21:28:27,983 [main] INFO ebanking - Enter password
+2022-12-07 21:28:32,110 [main] INFO ebanking - Clicked on submit
+2022-12-07 21:35:52,409 [main] INFO ebanking - opened baseURL
+2022-12-07 21:35:52,422 [main] INFO ebanking - Object created for loginpage
+2022-12-07 21:35:52,483 [main] INFO ebanking - Enter username
+2022-12-07 21:35:52,571 [main] INFO ebanking - Enter password
+2022-12-07 21:35:56,124 [main] INFO ebanking - Clicked on submit
+2022-12-07 21:38:30,499 [main] INFO ebanking - opened baseURL
+2022-12-07 21:38:30,513 [main] INFO ebanking - Object created for loginpage
+2022-12-07 21:38:30,596 [main] INFO ebanking - Enter username
+2022-12-07 21:38:30,651 [main] INFO ebanking - Enter password
+2022-12-07 21:38:32,510 [main] INFO ebanking - Clicked on submit
+2022-12-07 21:46:10,056 [main] INFO ebanking - Entered Username
+2022-12-07 21:46:10,121 [main] INFO ebanking - Entered Password
+2022-12-07 21:46:10,184 [main] INFO ebanking - Clicked Submit
+2022-12-07 21:46:17,386 [main] INFO ebanking - Adding New Customer name
+2022-12-15 11:44:39,424 [main] INFO ebanking - opened baseURL
+2022-12-15 11:44:39,454 [main] INFO ebanking - Object created for loginpage
+2022-12-15 11:44:39,564 [main] INFO ebanking - Enter username
+2022-12-15 11:44:39,634 [main] INFO ebanking - Enter password
+2022-12-15 11:44:41,158 [main] INFO ebanking - Clicked on submit
+2022-12-15 11:44:41,158 [main] INFO ebanking - Title matched as expected
+2022-12-15 11:44:47,212 [main] INFO ebanking - Entered Username
+2022-12-15 11:44:47,301 [main] INFO ebanking - Entered Password
+2022-12-15 11:44:47,364 [main] INFO ebanking - Clicked Submit
+2022-12-15 11:44:51,862 [main] INFO ebanking - Adding New Customer name
+2022-12-15 13:11:54,581 [main] INFO ebanking - opened baseURL
+2022-12-15 13:11:54,597 [main] INFO ebanking - Object created for loginpage
+2022-12-15 13:11:54,671 [main] INFO ebanking - Enter username
+2022-12-15 13:11:54,725 [main] INFO ebanking - Enter password
+2022-12-15 13:11:56,147 [main] INFO ebanking - Clicked on submit
+2022-12-15 13:11:56,154 [main] INFO ebanking - Title matched as expected
+2022-12-15 13:12:00,748 [main] INFO ebanking - Entered Username
+2022-12-15 13:12:00,816 [main] INFO ebanking - Entered Password
+2022-12-15 13:12:00,868 [main] INFO ebanking - Clicked Submit
+2022-12-15 13:12:05,302 [main] INFO ebanking - Adding New Customer name
+2022-12-15 13:32:05,901 [main] INFO ebanking - opened baseURL
+2022-12-15 13:32:05,901 [main] INFO ebanking - Object created for loginpage
+2022-12-15 13:32:05,988 [main] INFO ebanking - Enter username
+2022-12-15 13:32:06,036 [main] INFO ebanking - Enter password
+2022-12-15 13:32:10,128 [main] INFO ebanking - Clicked on submit
+2022-12-15 13:32:10,144 [main] INFO ebanking - Title matched as expected
+2022-12-15 13:32:14,872 [main] INFO ebanking - Entered Username
+2022-12-15 13:32:14,942 [main] INFO ebanking - Entered Password
+2022-12-15 13:32:14,998 [main] INFO ebanking - Clicked Submit
+2022-12-15 13:32:19,402 [main] INFO ebanking - Adding New Customer name
+2022-12-16 12:54:57,762 [main] INFO ebanking - opened baseURL
+2022-12-16 12:54:57,779 [main] INFO ebanking - Object created for loginpage
+2022-12-16 12:54:57,840 [main] INFO ebanking - Enter username
+2022-12-16 12:54:57,884 [main] INFO ebanking - Enter password
+2022-12-16 12:55:02,157 [main] INFO ebanking - Clicked on submit
+2022-12-16 12:55:02,168 [main] INFO ebanking - Title matched as expected
+2022-12-16 12:55:10,528 [main] INFO ebanking - Entered Username
+2022-12-16 12:55:10,575 [main] INFO ebanking - Entered Password
+2022-12-16 12:55:10,618 [main] INFO ebanking - Clicked Submit
+2022-12-16 12:55:20,687 [main] INFO ebanking - Adding New Customer name
+2022-12-16 13:12:16,558 [main] INFO ebanking - opened baseURL
+2022-12-16 13:12:16,574 [main] INFO ebanking - Object created for loginpage
+2022-12-16 13:12:16,628 [main] INFO ebanking - Enter username
+2022-12-16 13:12:16,673 [main] INFO ebanking - Enter password
+2022-12-16 13:12:25,613 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:12:25,632 [main] INFO ebanking - Title matched as expected
+2022-12-16 13:14:26,578 [main] INFO ebanking - Username given
+2022-12-16 13:14:26,631 [main] INFO ebanking - Username given
+2022-12-16 13:14:26,675 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:14:31,924 [main] INFO ebanking - Login pass
+2022-12-16 13:14:44,493 [main] INFO ebanking - Username given
+2022-12-16 13:14:44,535 [main] INFO ebanking - Username given
+2022-12-16 13:14:44,574 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:14:51,731 [main] WARN ebanking - Login failed
+2022-12-16 13:14:54,738 [main] INFO ebanking - Username given
+2022-12-16 13:14:54,788 [main] INFO ebanking - Username given
+2022-12-16 13:14:54,824 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:15:00,788 [main] WARN ebanking - Login failed
+2022-12-16 13:15:06,243 [main] INFO ebanking - Username given
+2022-12-16 13:15:06,290 [main] INFO ebanking - Username given
+2022-12-16 13:15:06,324 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:15:11,923 [main] WARN ebanking - Login failed
+2022-12-16 13:15:18,735 [main] INFO ebanking - Username given
+2022-12-16 13:15:18,783 [main] INFO ebanking - Username given
+2022-12-16 13:15:18,819 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:15:24,219 [main] WARN ebanking - Login failed
+2022-12-16 13:18:55,337 [main] INFO ebanking - opened baseURL
+2022-12-16 13:18:55,354 [main] INFO ebanking - Object created for loginpage
+2022-12-16 13:18:55,413 [main] INFO ebanking - Enter username
+2022-12-16 13:18:55,458 [main] INFO ebanking - Enter password
+2022-12-16 13:18:57,170 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:18:57,178 [main] INFO ebanking - Title matched as expected
+2022-12-16 13:30:50,887 [main] INFO ebanking - opened baseURL
+2022-12-16 13:30:50,903 [main] INFO ebanking - Object created for loginpage
+2022-12-16 13:30:50,951 [main] INFO ebanking - Enter username
+2022-12-16 13:30:50,983 [main] INFO ebanking - Enter password
+2022-12-16 13:30:53,317 [main] INFO ebanking - Clicked on submit
+2022-12-16 13:30:53,317 [main] INFO ebanking - Title matched as expected
+2022-12-22 21:38:31,199 [main] INFO ebanking - opened baseURL
+2022-12-22 21:38:31,223 [main] INFO ebanking - Object created for loginpage
+2022-12-22 21:38:31,287 [main] INFO ebanking - Enter username
+2022-12-22 21:38:31,327 [main] INFO ebanking - Enter password
+2022-12-22 21:38:31,871 [main] INFO ebanking - Clicked on submit
